@@ -1,0 +1,10 @@
+{
+    "proxies":
+    {
+        "default":
+        {
+            "httpProxy": "http://u157740:pasw@10.38.253.17:8080",
+            "httpsProxy": "http://u157740:pasw@10.38.253.17:8080"
+        }
+    }
+}
